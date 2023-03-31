@@ -1,0 +1,42 @@
+.topnav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+    position: relative;
+    
+}
+
+.topnav li {
+    float: left;
+}
+
+.topnav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    position: relative;
+}
+
+.active {
+background-color: #00cc99;
+}
+
+.topnav a:hover {
+background-color: #00cc99;
+color: black;
+}
+
+.topnav-right {
+    float: right;
+  }  
+
+
+
+
+
+
+
